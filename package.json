@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "some utility functions",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^2.45.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benibana2001/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benibana2001/utils/issues"
+  },
+  "homepage": "https://github.com/benibana2001/utils#readme"
+}
